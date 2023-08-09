@@ -50,3 +50,5 @@ echo "unset HISTFILE" >> /etc/profile
 last -10
 
 将这些信息导出到  last_user.md
+
+
