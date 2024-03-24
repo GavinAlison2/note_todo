@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+
 	var orig string = "ABC"
 	// var an int
 	var newS string
